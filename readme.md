@@ -1,8 +1,8 @@
-# HieuKAV - Khan Academy Enhancement Tool
+# ElainaKAV - Khan Academy Enhancement Tool
 
-![HieuKAV Logo](https://i.imgur.com/JDt99XK.jpeg)
+![ElainaKAV Logo](https://i.imgur.com/JDt99XK.jpeg)
 
-**HieuKAV** là công cụ hỗ trợ học tập mạnh mẽ dành cho Khan Academy, được phát triển bởi NguyenManhHieu. Script này cung cấp nhiều tính năng tự động hóa và tối ưu hóa trải nghiệm học tập của bạn.
+**ElainaKAV** là công cụ hỗ trợ học tập mạnh mẽ dành cho Khan Academy, được phát triển bởi NguyenManhHieu. Script này cung cấp nhiều tính năng tự động hóa và tối ưu hóa trải nghiệm học tập của bạn.
 
 ## 🚀 Tính năng chính
 
@@ -171,14 +171,4 @@ Nếu bạn gặp bug hoặc có ý tưởng tính năng mới:
 - Tác giả không chịu trách nhiệm cho việc sử dụng sai mục đích
 - Khuyến khích sử dụng để hỗ trợ học tập chứ không thay thế việc học
 
-## 📞 Liên hệ & Hỗ trợ
-
-- **Website**: [nguyenmanhhieu.info.vn](https://nguyenmanhhieu.info.vn)
-- **GitHub**: [Nguoibianhz](https://github.com/Nguoibianhz/)
-- **Install Link**: [HieuKAV.user.js](https://github.com/Nguoibianhz/HieuKAV/raw/refs/heads/main/HieuKAV.user.js)
-
----
-
-**Made with ❤️ by NguyenManhHieu**
-
-*"Get good, get HieuKAV!"*
+#Cảm ơn HieuKAV Rất nhiều=)))))#
