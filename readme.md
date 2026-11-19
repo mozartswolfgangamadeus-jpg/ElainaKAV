@@ -69,14 +69,14 @@
    - [Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
-2. **Install HieuKAV**:
-   - Click vào link: [**INSTALL HIEUKAV**](https://github.com/Nguoibianhz/HieuKAV/raw/refs/heads/main/HieuKAV.user.js)
+2. **Install ElainaKAV**:
+   - Click vào link: [**INSTALL ELAINAKAV**](https://github.com/Nguoibianhz/ElainaKAV/raw/refs/heads/main/ElainaKAV.user.js)
    - Tampermonkey sẽ mở tab cài đặt
    - Click "Install" để hoàn thành
 
 3. **Sử dụng**:
    - Truy cập [Khan Academy](https://khanacademy.org)
-   - Nhấn nút "🚀 START HIEUKAV" ở góc phải màn hình
+   - Nhấn nút "🚀 START ELAINAKAV" ở góc phải màn hình
    - Tận hưởng các tính năng!
 
 ## 🎮 Hướng dẫn sử dụng
@@ -171,4 +171,4 @@ Nếu bạn gặp bug hoặc có ý tưởng tính năng mới:
 - Tác giả không chịu trách nhiệm cho việc sử dụng sai mục đích
 - Khuyến khích sử dụng để hỗ trợ học tập chứ không thay thế việc học
 
-#Cảm ơn HieuKAV Rất nhiều=)))))#
+#Cảm ơn ElainaKAV Rất nhiều=)))))#
