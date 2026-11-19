@@ -7,5 +7,5 @@
 // @match        https://*.khanacademy.org/*
 // @grant        none
 // @run-at       document-start
-// @require      https://raw.githubusercontent.com/Nguoibianhz/HieuKAV/main/main.js
+// @require      https://raw.githubusercontent.com/mozartswolfgangamadeus-jpg/ElainaKAV/main/main.js
 // ==/UserScript==
