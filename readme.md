@@ -171,4 +171,4 @@ Nếu bạn gặp bug hoặc có ý tưởng tính năng mới:
 - Tác giả không chịu trách nhiệm cho việc sử dụng sai mục đích
 - Khuyến khích sử dụng để hỗ trợ học tập chứ không thay thế việc học
 
-#Cảm ơn ElainaKAV Rất nhiều=)))))#
+#Cảm ơn HieuKAV Rất nhiều=)))))#
